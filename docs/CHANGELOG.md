@@ -37,3 +37,8 @@
 - STYLE_BIBLE v1.0
 - assets/batch-a-xiaoyan: standing, threerview, expressions, xuanchong_chi
 - canon reference index (11 chapters x 6 pages)
+
+## 批A样稿反馈
+- ✅ xiaoyan_standing_v1 = 脸/服装基准定稿
+- ✅ xuanchong_chi_canon = 合格
+- ❌ threerview_v1 / expressions_v1 → rejected/，按站姿基准重出v2
