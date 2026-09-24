@@ -31,3 +31,9 @@
 
 ## v0.0.8 — 决策39-46
 - 动画流畅铁律、双导航、手把手教学；玄重尺双待机、炼丹混合制、共享装备、斗晶拉人
+
+## v1.0.0 — GDD冻结 + 批A萧炎样稿
+- DESIGN v1.0 frozen (106 decisions)
+- STYLE_BIBLE v1.0
+- assets/batch-a-xiaoyan: standing, threerview, expressions, xuanchong_chi
+- canon reference index (11 chapters x 6 pages)
