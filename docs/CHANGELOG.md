@@ -78,3 +78,7 @@
 - comic_v1 美式→rejected
 - xianxia_v1 按斗破原页修仙火焰风重做
 - side v6 待验
+
+## xianxia FX 重出 + side v6
+- 修仙火焰特效按原页ch350/ch050重生成
+- side v6 待验
