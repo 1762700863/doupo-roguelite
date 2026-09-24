@@ -59,3 +59,8 @@
 - back_carry_v3（刃朝右上）替换v1/v2
 - fx fire+impact v2 精修替换粗糙v1
 - 旧版移入 rejected/
+
+## 背负v4（决策111）
+- 柄上刃下（肩侧拔出），单武器，正面+侧面
+- 旧v1-v3入 rejected/
+- 特效v2已入库（fire/impact）
