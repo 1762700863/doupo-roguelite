@@ -46,3 +46,7 @@
 ## 批A v2
 - threerview_v2 / expressions_v2 / halfbody_v1 / icon_v1 以 standing_v1 为唯一参考重出
 - 决策107
+
+## 批A v2 验收通过 + 仓库大本营
+- standing / threerview_v2 / expressions_v2 / halfbody / icon / xuanchong_chi 全部合格
+- 全量素材迁入仓库 assets/；决策108

@@ -1,0 +1,68 @@
+[
+  {
+    "chapter_file": "ch001",
+    "title": "01",
+    "url_count": 36,
+    "downloaded": 6
+  },
+  {
+    "chapter_file": "ch002",
+    "title": "02",
+    "url_count": 24,
+    "downloaded": 6
+  },
+  {
+    "chapter_file": "ch003",
+    "title": "03",
+    "url_count": 24,
+    "downloaded": 6
+  },
+  {
+    "chapter_file": "ch010",
+    "title": "10",
+    "url_count": 24,
+    "downloaded": 6
+  },
+  {
+    "chapter_file": "ch050",
+    "title": "45（下）",
+    "url_count": 13,
+    "downloaded": 6
+  },
+  {
+    "chapter_file": "ch100",
+    "title": "70（下）",
+    "url_count": 13,
+    "downloaded": 6
+  },
+  {
+    "chapter_file": "ch150",
+    "title": "95（下）",
+    "url_count": 12,
+    "downloaded": 6
+  },
+  {
+    "chapter_file": "ch200",
+    "title": "120（下）",
+    "url_count": 11,
+    "downloaded": 6
+  },
+  {
+    "chapter_file": "ch250",
+    "title": "第145回 变强的决心（下）",
+    "url_count": 13,
+    "downloaded": 6
+  },
+  {
+    "chapter_file": "ch300",
+    "title": "第189回 毒魔斑",
+    "url_count": 21,
+    "downloaded": 6
+  },
+  {
+    "chapter_file": "ch350",
+    "title": "第236回 晋级斗宗（上）",
+    "url_count": 10,
+    "downloaded": 6
+  }
+]
