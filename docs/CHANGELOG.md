@@ -42,3 +42,7 @@
 - ✅ xiaoyan_standing_v1 = 脸/服装基准定稿
 - ✅ xuanchong_chi_canon = 合格
 - ❌ threerview_v1 / expressions_v1 → rejected/，按站姿基准重出v2
+
+## 批A v2
+- threerview_v2 / expressions_v2 / halfbody_v1 / icon_v1 以 standing_v1 为唯一参考重出
+- 决策107
