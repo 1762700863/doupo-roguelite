@@ -50,3 +50,7 @@
 ## 批A v2 验收通过 + 仓库大本营
 - standing / threerview_v2 / expressions_v2 / halfbody / icon / xuanchong_chi 全部合格
 - 全量素材迁入仓库 assets/；决策108
+
+## 批A补充件
+- 三形态 youth/mid/yandi、双待机、4向小人、背负v2、攻击三段关键帧、施法三帧、火/打击特效表
+- 决策109：背负态修正
