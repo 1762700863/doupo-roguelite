@@ -73,3 +73,8 @@
 ## comic FX + side v6（决策113）
 - fx comic_v1 fire/impact 按原页勾线风
 - side v5→rejected，v6极简单武器
+
+## 特效纠偏（决策114）
+- comic_v1 美式→rejected
+- xianxia_v1 按斗破原页修仙火焰风重做
+- side v6 待验
