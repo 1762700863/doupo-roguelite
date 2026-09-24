@@ -64,3 +64,8 @@
 - 柄上刃下（肩侧拔出），单武器，正面+侧面
 - 旧v1-v3入 rejected/
 - 特效v2已入库（fire/impact）
+
+## 侧视v5 + 漫画勾线特效（决策112）
+- side v5 替换扭曲v4
+- fx comic_v1 fire+impact 按原页风格
+- 旧特效v1/v2入 rejected/
