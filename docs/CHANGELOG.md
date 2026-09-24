@@ -69,3 +69,7 @@
 - side v5 替换扭曲v4
 - fx comic_v1 fire+impact 按原页风格
 - 旧特效v1/v2入 rejected/
+
+## comic FX + side v6（决策113）
+- fx comic_v1 fire/impact 按原页勾线风
+- side v5→rejected，v6极简单武器
